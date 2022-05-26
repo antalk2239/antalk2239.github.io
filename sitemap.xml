@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog.antalk.top/2022/05/25/hello-world/</loc>
+    <loc>https://blog.antalk.top/archives/4a17b156.html</loc>
     
     <lastmod>2022-05-25</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://blog.antalk.top/2022/05/25/python/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/</loc>
+    <loc>https://blog.antalk.top/archives/7f8d1d03.html</loc>
     
     <lastmod>2022-05-25</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://blog.antalk.top/2022/05/25/python/%E4%BD%BF%E7%94%A8beautifulsoup%E5%AF%B9%E5%A4%A9%E5%A0%82%E7%88%AC%E5%8F%96/</loc>
+    <loc>https://blog.antalk.top/archives/b7fd3a30.html</loc>
     
     <lastmod>2022-05-25</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://blog.antalk.top/2022/05/25/python/%E6%8B%89%E5%8B%BE%E7%BD%91%E7%88%AC%E5%8F%96/</loc>
+    <loc>https://blog.antalk.top/archives/777c3530.html</loc>
     
     <lastmod>2022-05-25</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://blog.antalk.top/2022/05/25/python/%E5%85%B3%E4%BA%8Ecsv%EF%BC%8Cjson%E7%9A%84%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86/</loc>
+    <loc>https://blog.antalk.top/archives/4d41c51a.html</loc>
     
     <lastmod>2022-05-25</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://blog.antalk.top/link/index.html</loc>
+    <loc>https://blog.antalk.top/link/index.html</loc>
     
     <lastmod>2022-05-25</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://blog.antalk.top/categories/index.html</loc>
+    <loc>https://blog.antalk.top/categories/index.html</loc>
     
     <lastmod>2022-05-25</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>http://blog.antalk.top/tags/index.html</loc>
+    <loc>https://blog.antalk.top/tags/index.html</loc>
     
     <lastmod>2022-05-25</lastmod>
     
@@ -75,7 +75,7 @@
   
 
   <url>
-    <loc>http://blog.antalk.top/</loc>
+    <loc>https://blog.antalk.top/</loc>
     <lastmod>2022-05-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -83,49 +83,49 @@
 
   
   <url>
-    <loc>http://blog.antalk.top/tags/pythons/</loc>
+    <loc>https://blog.antalk.top/tags/python/</loc>
     <lastmod>2022-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog.antalk.top/tags/csv/</loc>
+    <loc>https://blog.antalk.top/tags/Beautifulsoup/</loc>
     <lastmod>2022-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog.antalk.top/tags/json/</loc>
+    <loc>https://blog.antalk.top/tags/pythons/</loc>
     <lastmod>2022-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog.antalk.top/tags/python/</loc>
+    <loc>https://blog.antalk.top/tags/csv/</loc>
     <lastmod>2022-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog.antalk.top/tags/Beautifulsoup/</loc>
+    <loc>https://blog.antalk.top/tags/json/</loc>
     <lastmod>2022-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog.antalk.top/tags/mysql/</loc>
+    <loc>https://blog.antalk.top/tags/selenium/</loc>
     <lastmod>2022-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog.antalk.top/tags/selenium/</loc>
+    <loc>https://blog.antalk.top/tags/mysql/</loc>
     <lastmod>2022-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
