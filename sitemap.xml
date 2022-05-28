@@ -13,7 +13,7 @@
   <url>
     <loc>https://blog.antalk.top/archives/6fa2e9dc.html</loc>
     
-    <lastmod>2022-05-27</lastmod>
+    <lastmod>2022-05-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -101,27 +101,6 @@
 
   
   <url>
-    <loc>https://blog.antalk.top/tags/%E6%8F%90%E9%80%9F/</loc>
-    <lastmod>2022-05-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.antalk.top/tags/%E5%BE%AE%E8%BD%AF/</loc>
-    <lastmod>2022-05-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.antalk.top/tags/onedrive/</loc>
-    <lastmod>2022-05-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.antalk.top/tags/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2022-05-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -143,7 +122,28 @@
   </url>
   
   <url>
-    <loc>https://blog.antalk.top/tags/Beautifulsoup/</loc>
+    <loc>https://blog.antalk.top/tags/mysql/</loc>
+    <lastmod>2022-05-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.antalk.top/tags/%E6%8F%90%E9%80%9F/</loc>
+    <lastmod>2022-05-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.antalk.top/tags/%E5%BE%AE%E8%BD%AF/</loc>
+    <lastmod>2022-05-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.antalk.top/tags/onedrive/</loc>
     <lastmod>2022-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -178,7 +178,7 @@
   </url>
   
   <url>
-    <loc>https://blog.antalk.top/tags/mysql/</loc>
+    <loc>https://blog.antalk.top/tags/Beautifulsoup/</loc>
     <lastmod>2022-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -201,14 +201,14 @@
   </url>
   
   <url>
-    <loc>https://blog.antalk.top/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/onedrive/</loc>
+    <loc>https://blog.antalk.top/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2022-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.antalk.top/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>https://blog.antalk.top/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/onedrive/</loc>
     <lastmod>2022-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
