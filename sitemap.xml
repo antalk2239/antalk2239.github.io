@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.antalk.top/archives/8d9d6c10.html</loc>
+    
+    <lastmod>2022-05-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.antalk.top/archives/d09d8f48.html</loc>
     
     <lastmod>2022-05-28</lastmod>
@@ -101,6 +110,20 @@
 
   
   <url>
+    <loc>https://blog.antalk.top/tags/%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2022-05-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.antalk.top/tags/%E4%B8%8B%E8%BD%BD/</loc>
+    <lastmod>2022-05-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.antalk.top/tags/%E6%8F%90%E9%80%9F/</loc>
     <lastmod>2022-05-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -171,14 +194,14 @@
   </url>
   
   <url>
-    <loc>https://blog.antalk.top/tags/selenium/</loc>
+    <loc>https://blog.antalk.top/tags/mysql/</loc>
     <lastmod>2022-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.antalk.top/tags/mysql/</loc>
+    <loc>https://blog.antalk.top/tags/selenium/</loc>
     <lastmod>2022-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -187,7 +210,28 @@
 
   
   <url>
+    <loc>https://blog.antalk.top/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/</loc>
+    <lastmod>2022-05-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.antalk.top/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/</loc>
+    <lastmod>2022-05-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.antalk.top/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/%E4%B8%8B%E8%BD%BD%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2022-05-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.antalk.top/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/python/</loc>
     <lastmod>2022-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -202,13 +246,6 @@
   
   <url>
     <loc>https://blog.antalk.top/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2022-05-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.antalk.top/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/python/</loc>
     <lastmod>2022-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
