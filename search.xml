@@ -4,6 +4,37 @@
   
     
     <entry>
+      <title>如何给onedrive加速</title>
+      <link href="/archives/d09d8f48.html"/>
+      <url>/archives/d09d8f48.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="onedrive-提速下载"><a href="#onedrive-提速下载" class="headerlink" title="onedrive 提速下载"></a>onedrive 提速下载</h1><p>将这个代码 放到下图地方即可发现新世界</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">payload:</span>  </span><br><span class="line">  <span class="comment"># &gt; Microsoft</span></span><br><span class="line"><span class="bullet">-</span> <span class="string">PROCESS-NAME,OneDrive,Proxy</span></span><br><span class="line"><span class="bullet">-</span> <span class="string">DOMAIN-KEYWORD,onedrive,Proxy</span></span><br><span class="line"><span class="bullet">-</span> <span class="string">DOMAIN-SUFFIX,azure.com,Proxy</span></span><br><span class="line"><span class="bullet">-</span> <span class="string">DOMAIN-SUFFIX,fabric.io,Proxy</span></span><br><span class="line"><span class="bullet">-</span> <span class="string">DOMAIN-SUFFIX,files.1drv.com,Proxy</span></span><br><span class="line"><span class="bullet">-</span> <span class="string">DOMAIN-SUFFIX,hotmail.com,Proxy</span></span><br><span class="line"><span class="bullet">-</span> <span class="string">DOMAIN-SUFFIX,live.com,Proxy</span></span><br><span class="line"><span class="bullet">-</span> <span class="string">DOMAIN-SUFFIX,live.net,Proxy</span></span><br><span class="line"><span class="bullet">-</span> <span class="string">DOMAIN-SUFFIX,livefilestore.com,Proxy</span></span><br><span class="line"><span class="bullet">-</span> <span class="string">DOMAIN-SUFFIX,mesh.com,Proxy</span></span><br><span class="line"><span class="bullet">-</span> <span class="string">DOMAIN-SUFFIX,microsoft.com,Proxy</span></span><br><span class="line"><span class="bullet">-</span> <span class="string">DOMAIN-SUFFIX,microsoftonline.com,Proxy</span></span><br><span class="line"><span class="bullet">-</span> <span class="string">DOMAIN-SUFFIX,microsoft-tst.com,Proxy</span></span><br><span class="line"><span class="bullet">-</span> <span class="string">DOMAIN-SUFFIX,msn.com,Proxy</span></span><br><span class="line"><span class="bullet">-</span> <span class="string">DOMAIN-SUFFIX,office.com,Proxy</span></span><br><span class="line"><span class="bullet">-</span> <span class="string">DOMAIN-SUFFIX,office.net,Proxy</span></span><br><span class="line"><span class="bullet">-</span> <span class="string">DOMAIN-SUFFIX,onedrive.com,Proxy</span></span><br><span class="line"><span class="bullet">-</span> <span class="string">DOMAIN-SUFFIX,outlook.com,Proxy</span></span><br><span class="line"><span class="bullet">-</span> <span class="string">DOMAIN-SUFFIX,p.sfx.ms,Proxy</span></span><br><span class="line"><span class="bullet">-</span> <span class="string">DOMAIN-SUFFIX,s-microsoft.com,Proxy</span></span><br><span class="line"><span class="bullet">-</span> <span class="string">DOMAIN-SUFFIX,sharepoint.com,Proxy</span></span><br><span class="line"><span class="bullet">-</span> <span class="string">DOMAIN-SUFFIX,skype.com,Proxy</span></span><br><span class="line"><span class="bullet">-</span> <span class="string">DOMAIN-SUFFIX,spoprod-a.akamaihd.net,Proxy</span></span><br><span class="line"><span class="bullet">-</span> <span class="string">DOMAIN-SUFFIX,storage.msn.com,Proxy</span></span><br><span class="line"><span class="bullet">-</span> <span class="string">DOMAIN-SUFFIX,antalk-my.sharepoint.com,Proxy</span></span><br></pre></td></tr></table></figure><p>在设置中找到此项</p><p><img src="https://p.qlogo.cn/hy_personal/3e28f14aa05168421e9f4b4c26e3d78aac621c4e7707aae7428573f77c8a60b9/0.png" alt="image-20220528163652937"></p><p>在末尾添加上述代码并保存</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术分享 </category>
+          
+          <category> onedrive </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 提速 </tag>
+            
+            <tag> 微软 </tag>
+            
+            <tag> onedrive </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>零成本搭建hexo博客</title>
       <link href="/archives/6fa2e9dc.html"/>
       <url>/archives/6fa2e9dc.html</url>
